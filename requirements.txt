@@ -1,0 +1,9 @@
+streamlit
+requests
+pandas
+numpy
+joblib
+sklearn
+ast
+nltk
+pickle
