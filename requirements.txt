@@ -2,8 +2,7 @@ streamlit
 requests
 pandas
 numpy
-joblib
-sklearn
+scikit-learn
 ast
 nltk
 pickle
