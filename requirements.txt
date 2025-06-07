@@ -3,5 +3,3 @@ requests
 pandas
 numpy
 scikit-learn
-ast
-nltk
